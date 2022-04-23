@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Crypto](https://nodejs.org/api/crypto.html)
-- [Binance APÌ](https://binance-docs.github.io/apidocs/spot/en/#change-log)
+- [Binance API](https://binance-docs.github.io/apidocs/spot/en/#change-log)
 
 ## 💻 Projeto
 
