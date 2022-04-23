@@ -2,8 +2,13 @@ const axios = require('axios');
 const queryString = require('qs');
 const crypto = require('crypto');
 
+// API key criada pra teste
 const apiKey = process.env.API_KEY_TEST;
+
+// Secret key criada pra teste
 const apiSecret = process.env.SECRET_KEY_TEST;
+
+// API url de teste ==> https://testnet.binance.vision/api
 const apiUrl = process.env.API_URL_TEST;
 
 const privateCall = async (path, data = {}, method = 'GET') => {

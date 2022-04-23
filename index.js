@@ -1,4 +1,6 @@
 const api = require('./api');
+
+// Simbolo de alguma criptomoeda para teste (Ex: BNBBUSD)
 const symbol = process.env.SYMBOL;
 
 console.log('Iniciando monitoramento!\n');
