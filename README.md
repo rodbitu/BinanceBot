@@ -1,28 +1,31 @@
-<h1 align="center">BinanceBot</h1>
+# <h1 align="center">BinanceBot</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=Language&message=Node.js&color=8257E5&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=Version&message=1.0&color=8257E5&labelColor=000000">
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Crypto](https://nodejs.org/api/crypto.html)
 - [Binance API](https://binance-docs.github.io/apidocs/spot/en/#change-log)
 
-## 💻 Projeto
+## 💻 Project
 
-BinanceBot é um bot que foi criado com o objetivo de automatizar operações no exchange Binance.
+BinanceBot is a bot created to automate operations on the Binance exchange.
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Rode `npm install` para baixar as dependências
-- Rode o `npm run dev` para iniciar a aplicação.
+- Clone the repository
+- Run `npm install` to install dependencies
+- Run `npm run dev` to start the application.
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+
